@@ -1,3 +1,3 @@
 # first_gitHub_demo
 today is 26 november 2025 and at 3 oClock i am going to learn githup
-my target to complete this git tutorial is one month....
+my target to complete this git tutorial is one month....Learning (apna)
